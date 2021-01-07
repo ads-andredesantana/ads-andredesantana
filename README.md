@@ -26,11 +26,11 @@
 
 <div><p>My overview: </p></div>
 
-![ads-andredesantana's github stats](https://github-readme-stats.vercel.app/api?username=ads-andredesantanaK&show_icons=true)
+![ads-andredesantana's github stats](https://github-readme-stats.vercel.app/api?username=ads-andredesantana&show_icons=true)
 <br />
 
 <!-- Optional Visitors badge: -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ads-andredesantana.ads-andredesantana)
 
 ⭐️ From [Andre De Santana](https://github.com/ads-andredesantana/ads-andredesantana) 
 
