@@ -4,7 +4,7 @@
 
 ### Welcome Everyone 👋 I am [Andre De Santana ](https://github.com/ads-andredesantana)
 
-<a href=""https://www.linkedin.com/in/andre-de-santana/" target="_blank">
+<a href="https://www.linkedin.com/in/andre-de-santana/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
