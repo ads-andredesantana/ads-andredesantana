@@ -2,7 +2,7 @@
  <h2 align="center">Welcome to my Profile</h2>
 </p>
 
-### Welcome EveroEveryone 👋 I am [Andre De Santana ](https://github.com/ads-andredesantana)
+### Welcome Everyone 👋 I am [Andre De Santana ](https://github.com/ads-andredesantana)
 
 <a href="https://www.linkedin.com/in/andre-de-santana/">
   <img align="left" alt="AndreDeSantana LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,11 +13,10 @@
 <br />
 <p>
 
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning 
+- 🔭 I’m currently working on a React Project
+- 🌱 I’m currently learning **React on Rails**
 - 👯 If you have any projects you would like to colaborate, reach out to me.
 - 💬 Ask me about **anything**
-- ⚡ Fun fact: Currently using **Machine Learning** to predict if I will pursue Machine Learning.
 
 </h4>
 </div>
