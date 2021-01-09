@@ -14,7 +14,7 @@
 <p>
 
 - 🔭 I’m currently working on a React Project
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React on Rails**
 - 👯 If you have any projects you would like to colaborate, reach out to me.
 - 💬 Ask me about **anything**
 
